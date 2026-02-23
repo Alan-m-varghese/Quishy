@@ -1,3 +1,3 @@
 <H1>WEBSITE PREVIEW</H1>
 
-<a href="">QUISHY</a>
+<a href="https://alan-m-varghese.github.io/Quishy/">QUISHY</a>
